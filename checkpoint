@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/pc/matroid_p1model.ckpt"
+all_model_checkpoint_paths: "C:/Users/pc/matroid_p1model.ckpt"
