@@ -12,3 +12,10 @@ Using the VGG CNN model to build a classider for a gender dataset.
 
 2. The gender dataset for classification is found in the link: ][http://www.openu.ac.il/home/hassner/Adience/data.html#agegender](http://www.openu.ac.il/home/hassner/Adience/data.html#agegender)
 
+## Run
+To run the model:
+```
+
+python vgg_face.py 
+
+```
